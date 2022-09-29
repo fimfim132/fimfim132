@@ -1,5 +1,5 @@
 Hi I'm Sakdipat, Welcome to my Github profile 👋
-🙋‍♂️Hello, my name is Sakdipat or call me P. I am 21 years old. I am currently in my 3rd year at King Mongkut's University of Technology Thonburi. Faculty of Science, Department of Mathematics, Applied Computer Science
+🙋‍♂️Hello, my name is Sakdipat or call me P. I am 21 years old. I am currently in my 4th year at King Mongkut's University of Technology Thonburi. Faculty of Science, Department of Mathematics, Applied Computer Science
 
 📍 I am interested in learning and developing myself in Full-stack, Web application and Moblie application </br>
 📫 How to reach me **sakdipat.pee@mail.kmutt.ac.th**
