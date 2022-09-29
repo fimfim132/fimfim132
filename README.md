@@ -24,7 +24,7 @@ Hi I'm Sakdipat, Welcome to my Github profile 👋
     <a href="https://figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
     <a href="https://www.adobe.com/th_th/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
     <a href="https://photoshop.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseekvectors.com%2Fpost%2Fnextjs-logo&psig=AOvVaw3qHLOI973_n0LLlykjZE_Z&ust=1664518949481000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiAnbiuufoCFQAAAAAdAAAAABAc"/>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 </p>
 
   <br/>
